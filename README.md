@@ -104,8 +104,10 @@
 <h3 align="left"><img src="https://user-images.githubusercontent.com/4640988/183820370-78f13597-a599-445f-bea4-838d71bf98ab.png" alt="react" width="16" height="16"/>Statistics:</h3>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=armikhael&show_icons=true&locale=en&layout=compact" alt="quaddom" /> 
 <img align="center" width="220" src="https://user-images.githubusercontent.com/4640988/183822788-a91310c7-2030-444b-ba71-cba7637ba351.gif" alt="quaddom" /> 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=armikhael&show_icons=true&locale=en" alt="quaddom" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=armikhael&show_icons=true&locale=en" alt="quaddom" />
+<img align="right" width="200" src="https://user-images.githubusercontent.com/4640988/183823966-d59f0532-9746-425b-9367-d039ac24a144.gif" alt="quaddom" /> 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=armikhael&" alt="armikhael" />
+
 
 
 <!--
