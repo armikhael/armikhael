@@ -34,17 +34,82 @@
 <a href="https://www.freecodecamp.org/fcc1a725306-16cb-451e-b85e-9ba2a2defce3" target="blank"><img align="center" src="https://user-images.githubusercontent.com/4640988/183802771-79ca7516-9917-4b20-aefe-670383ff5bed.png" alt="freecode" height="40" width="40" /></a>
 </p>
 
+<h3 align="left">
+  <img src="https://user-images.githubusercontent.com/4640988/183820050-07b74d43-656c-4187-825f-ebba05527fd8.png" alt="react" width="16" height="16"/>
+  Languages:</h3>
+<p align="left"> 
+<img src="https://user-images.githubusercontent.com/4640988/183817288-556e77d6-6748-4567-8830-4a4c04e2d2e6.png" alt="react" width="40" height="40"/>
+&nbsp;
+<img src="https://user-images.githubusercontent.com/4640988/183817479-03d38910-e060-452b-b83b-9db3f34cb4cd.png" alt="react" width="40" height="40"/>
+&nbsp;
+<img src="https://user-images.githubusercontent.com/4640988/183816922-b9b5f5e7-8ef1-4fad-8185-ae77a683ceb0.png" alt="react" width="40" height="40"/> 
+&nbsp;
+<img src="https://user-images.githubusercontent.com/4640988/183816774-db554134-6c23-4960-b4fb-a0dc003f564c.png" alt="react" width="40" height="40"/>
+&nbsp;
+<img src="https://user-images.githubusercontent.com/4640988/183817666-a465fd19-6bc3-47ce-9ee4-0b62fa69f9bc.png" alt="react" width="40" height="40"/>
+&nbsp;
+<img src="https://user-images.githubusercontent.com/4640988/183817818-6a5466f0-baf6-427a-b2f4-0c794af1d5ac.png" alt="react" width="40" height="40"/>
+&nbsp;
+<img src="https://user-images.githubusercontent.com/4640988/183817925-22361c5b-c7db-49f2-9073-33e02784e35d.png" alt="react" width="40" height="40"/>
+&nbsp;
+<img src="https://user-images.githubusercontent.com/4640988/183818103-2e47c1ef-f853-4869-ab34-32afafef949e.png" alt="react" width="40" height="40"/>
+&nbsp;
+<img src="https://user-images.githubusercontent.com/4640988/183818380-67d26948-1211-42c9-beaa-0c41687872ca.png" alt="react" width="40" height="40"/>
+&nbsp;
+<img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="react" width="40" height="40"/>
+&nbsp;
+<img src="https://user-images.githubusercontent.com/4640988/183818609-40eee7f4-b8a0-45cf-b1fa-95c019efd497.png" alt="react" width="40" height="40"/>
+&nbsp;
+<img src="https://user-images.githubusercontent.com/4640988/183819789-88210169-baac-478b-9fdb-4d2b21cc040e.png" alt="react" width="40" height="40"/>
+&nbsp;
+<img src="https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" alt="react" width="40" height="40"/>
+&nbsp;
+<img src="https://user-images.githubusercontent.com/4640988/183819209-41ae3d32-32a1-44e5-95e2-37147ac2bc7a.png" alt="react" width="40" height="40"/>
+&nbsp;
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=armikhael&" alt="armikhael" /></p>
+<h3 align="left"><img src="https://user-images.githubusercontent.com/4640988/183820231-23479fcc-b9e8-47bd-a259-21310b924cea.png" alt="react" width="16" height="16"/>Tools:</h3>
+<p align="left">
+  
+<img src="https://user-images.githubusercontent.com/4640988/183820638-2f42d1f9-4f06-4f1e-a8fa-2eb7fd7ab718.png" alt="react" width="40" height="40"/>
+&nbsp;
+<img src="https://user-images.githubusercontent.com/4640988/183820756-289c528c-e77e-4afe-b8a4-9dedb25a2a19.png" alt="react" width="40" height="40"/>
+&nbsp; 
+<img src="https://user-images.githubusercontent.com/4640988/183820825-24a29700-0dbb-4ffe-91d6-dddc66e0c25f.png" alt="react" width="40" height="40"/>
+&nbsp; 
+<img src="https://user-images.githubusercontent.com/4640988/183820900-bd41c98e-70d9-446b-9bc1-a38cefded2ad.png" alt="react" width="40" height="40"/>
+&nbsp; 
+<img src="https://user-images.githubusercontent.com/4640988/183821128-b4d6e209-1f70-42b2-9b1a-61c947577e7e.png" alt="react" width="40" height="40"/>
+&nbsp; 
+<img src="https://user-images.githubusercontent.com/4640988/183821225-d7a83c0b-653f-4cf5-8c0f-5bd1d1e80b0f.png" alt="react" width="40" height="40"/>
+&nbsp; 
+<img src="https://user-images.githubusercontent.com/4640988/183821282-5024a0f0-c799-4099-98bc-db595c114749.png" alt="react" width="40" height="40"/>
+&nbsp; 
+<img src="https://user-images.githubusercontent.com/4640988/183821395-131b5eca-bc23-4225-9923-c164d348af5a.png" alt="react" width="40" height="40"/>
+&nbsp; 
+<img src="https://user-images.githubusercontent.com/4640988/183821534-459d4cf9-ac7a-4b4f-8ca5-93b23fc7cab6.png" alt="react" width="40" height="40"/>
+&nbsp; 
+<img src="https://user-images.githubusercontent.com/4640988/183821623-239c7d3b-fb08-4ead-878d-c8b85b4f7a45.png" alt="react" width="40" height="40"/>
+&nbsp; 
+<img src="https://user-images.githubusercontent.com/4640988/183821680-02a6ee81-9f3a-4be2-a6c7-f63bd1c12cd2.svg" alt="react" width="40" height="40"/>
+&nbsp; 
+<img src="https://user-images.githubusercontent.com/4640988/183821748-b8f15932-cb50-44d2-8479-8409fd5832a9.png" alt="react" width="40" height="40"/>
+&nbsp; 
+
+</p>
+
+
+
+<h3 align="left"><img src="https://user-images.githubusercontent.com/4640988/183820370-78f13597-a599-445f-bea4-838d71bf98ab.png" alt="react" width="16" height="16"/>Statistics:</h3>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=armikhael&show_icons=true&locale=en" alt="quaddom" /> 
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=armikhael&" alt="armikhael" /></p> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=armikhael&show_icons=true&locale=en&layout=compact" alt="quaddom" /> 
+
+
+
 
 <!--
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=armikhael&show_icons=true&locale=en&layout=compact" alt="armikhael" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=armikhael&show_icons=true&locale=en" alt="armikhael" /></p>
 **armikhael/armikhael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
