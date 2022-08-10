@@ -1,8 +1,9 @@
-![Captura de Pantalla 2022-08-09 a la(s) 22 40 59](https://user-images.githubusercontent.com/4640988/183798490-5a8b5fe1-758f-4fd1-a4b3-4e1668cd9084.png)
 
 <h1 align="center">Hi 👋, I'm Carlos Espinoza</h1>
+<img align="right" alt="Banner" width="100%" src="https://user-images.githubusercontent.com/4640988/183808229-c6b3bf61-ee42-489b-a4e1-fdf5e50094a7.gif">
+&nbsp;
 <h3 align="center">I am a Systems Engineer based in Santiago of Chile, working on developing Desktop Applications and the creation of modern websites.</h3>
-<img align="right" alt="Coding" width="600" src="https://user-images.githubusercontent.com/4640988/183801205-feda1245-1a86-47a9-a7e4-b4582dacfafa.gif">
+<img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/4640988/183801205-feda1245-1a86-47a9-a7e4-b4582dacfafa.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armikhael&label=Profile%20views&color=0e75b6&style=flat" alt="armikhael" /> </p>
 
@@ -20,7 +21,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/dev-carlos-espinoza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dev-carlos-espinoza/" height="30" width="40" /></a>
 <a href="https://instagram.com/armikhael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="armikhael" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/armikhael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/armikhael" height="30" width="40" /></a> 
+<a href="https://www.facebook.com/armikhael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/armikhael" height="30" width="40" /></a> 
 <a href="https://twitter.com/armikhael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="armikhael" height="30" width="40" /></a>
 </p>
 
@@ -28,8 +29,8 @@
 <p align="left">
 <a href="https://codepen.io/armikhael" target="blank">
   <img align="center" src="https://user-images.githubusercontent.com/4640988/183802101-7e910b96-fe6d-491d-8cdc-09edeca07e9e.png" alt="armikhael" height="40" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://es.stackoverflow.com/users/43427/carlos-espinoza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://es.stackoverflow.com/users/43427/carlos-espinoza" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/carlosarmikhael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/carlosarmikhael" height="30" width="40" /></a>
+<a href="https://es.stackoverflow.com/users/43427/carlos-espinoza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://es.stackoverflow.com/users/43427/carlos-espinoza" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/carlosarmikhael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/carlosarmikhael" height="30" width="40" /></a>
 <a href="https://www.freecodecamp.org/fcc1a725306-16cb-451e-b85e-9ba2a2defce3" target="blank"><img align="center" src="https://user-images.githubusercontent.com/4640988/183802771-79ca7516-9917-4b20-aefe-670383ff5bed.png" alt="freecode" height="40" width="40" /></a>
 </p>
 
