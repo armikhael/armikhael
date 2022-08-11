@@ -11,7 +11,7 @@
 
 - 🔭 Currently working on <img align="center" src="https://user-images.githubusercontent.com/4640988/183798865-bcceeb08-97a8-4288-8c22-2aaf7584fc7d.png" alt="armikhael" height="30" width="40" /> [Mercado Libre](https://www.mercadolibre.cl/)
 
-- 🌱 I’m learning **React**
+- 🌱 Learning **React**
 
 - 👨‍💻 All of my projects are available on [About my](http://armikhael.github.io/curriculum/)
 
@@ -36,7 +36,7 @@
 
 <h3 align="left">
   <img src="https://user-images.githubusercontent.com/4640988/183820050-07b74d43-656c-4187-825f-ebba05527fd8.png" alt="react" width="16" height="16"/>
-  Developing tools:</h3>
+  Developing Tools:</h3>
 <p align="left"> 
 <img src="https://user-images.githubusercontent.com/4640988/183817288-556e77d6-6748-4567-8830-4a4c04e2d2e6.png" alt="react" width="40" height="40"/>
 &nbsp;
