@@ -2,22 +2,22 @@
 <h1 align="center">Hi 👋, I'm Carlos Espinoza</h1>
 <img align="right" alt="Banner" width="100%" src="https://user-images.githubusercontent.com/4640988/183808229-c6b3bf61-ee42-489b-a4e1-fdf5e50094a7.gif">
 &nbsp;
-<h3 align="center">I am a Systems Engineer based in Santiago of Chile, working on developing Desktop Applications and the creation of modern websites.</h3>
+<h3 align="center">I'm a Systems Engineer based in Santiago, Chile. Working on developing Desktop Applications and the creation of modern websites.</h3>
 <img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/4640988/183801205-feda1245-1a86-47a9-a7e4-b4582dacfafa.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armikhael&label=Profile%20views&color=0e75b6&style=flat" alt="armikhael" /> </p>
 
 <p align="left"> <a href="https://twitter.com/armikhael" target="blank"><img src="https://img.shields.io/twitter/follow/armikhael?logo=twitter&style=for-the-badge" alt="armikhael" /></a> </p>
 
-- 🔭 I’m currently working on <img align="center" src="https://user-images.githubusercontent.com/4640988/183798865-bcceeb08-97a8-4288-8c22-2aaf7584fc7d.png" alt="armikhael" height="30" width="40" /> [Mercado Libre](https://www.mercadolibre.cl/)
+- 🔭 Currently working on <img align="center" src="https://user-images.githubusercontent.com/4640988/183798865-bcceeb08-97a8-4288-8c22-2aaf7584fc7d.png" alt="armikhael" height="30" width="40" /> [Mercado Libre](https://www.mercadolibre.cl/)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m learning **React**
 
-- 👨‍💻 All of my projects are available at [About my](http://armikhael.github.io/curriculum/)
+- 👨‍💻 All of my projects are available on [About my](http://armikhael.github.io/curriculum/)
 
-- 📫 How to reach me **carlosarmikhael@gmail.com**
+- 📫 **carlosarmikhael@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Find me on:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/dev-carlos-espinoza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dev-carlos-espinoza/" height="30" width="40" /></a>
 <a href="https://instagram.com/armikhael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="armikhael" height="30" width="40" /></a>
@@ -36,7 +36,7 @@
 
 <h3 align="left">
   <img src="https://user-images.githubusercontent.com/4640988/183820050-07b74d43-656c-4187-825f-ebba05527fd8.png" alt="react" width="16" height="16"/>
-  Languages:</h3>
+  Developing tools:</h3>
 <p align="left"> 
 <img src="https://user-images.githubusercontent.com/4640988/183817288-556e77d6-6748-4567-8830-4a4c04e2d2e6.png" alt="react" width="40" height="40"/>
 &nbsp;
@@ -69,7 +69,7 @@
 </p>
 
 
-<h3 align="left"><img src="https://user-images.githubusercontent.com/4640988/183820231-23479fcc-b9e8-47bd-a259-21310b924cea.png" alt="react" width="16" height="16"/>Tools:</h3>
+<h3 align="left"><img src="https://user-images.githubusercontent.com/4640988/183820231-23479fcc-b9e8-47bd-a259-21310b924cea.png" alt="react" width="16" height="16"/>Programming Tools:</h3>
 <p align="left">
   
 <img src="https://user-images.githubusercontent.com/4640988/183820638-2f42d1f9-4f06-4f1e-a8fa-2eb7fd7ab718.png" alt="react" width="40" height="40"/>
