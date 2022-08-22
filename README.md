@@ -13,7 +13,9 @@
 
 - 🌱 Learning **React**
 
-- 👨‍💻 All of my projects are available on [About my](http://armikhael.github.io/curriculum/)
+- 👨‍💻 All of my projects are available on [About my](https://armikhael.github.io/curriculum/)
+
+- 🚀 Some services I offer [The Dodos design](http://thedodosdesign.com/)
 
 - 📫 **carlosarmikhael@gmail.com**
 
