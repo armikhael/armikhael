@@ -66,7 +66,7 @@
 &nbsp;
 <img src="https://user-images.githubusercontent.com/4640988/183819789-88210169-baac-478b-9fdb-4d2b21cc040e.png" alt="react" width="40" height="40"/>
 &nbsp;
-<img src="https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" alt="react" width="40" height="40"/>
+<img src="https://i.ibb.co/6WT3tHx/default-c6db7125f2c663e452ba211df91b2ced3bb7f0ff.png" alt="react" width="40" height="40"/>
 &nbsp;
 <img src="https://user-images.githubusercontent.com/4640988/183819209-41ae3d32-32a1-44e5-95e2-37147ac2bc7a.png" alt="react" width="40" height="40"/>
 &nbsp;
@@ -100,6 +100,9 @@
 &nbsp; 
 <img src="https://user-images.githubusercontent.com/4640988/183821748-b8f15932-cb50-44d2-8479-8409fd5832a9.png" alt="react" width="40" height="40"/>
 &nbsp; 
+<img src="https://i.ibb.co/gzjB8D6/descarga.png" alt="Chat GPT" width="40" height="40"/>
+&nbsp; 
+<img src="https://i.ibb.co/xs8r409/Captura-de-pantalla-2023-05-18-a-la-s-11-09-24.png" alt="Figma" width="40" height="40"/>
 
 </p>
 
